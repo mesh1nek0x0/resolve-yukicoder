@@ -1,13 +1,14 @@
 ## ハローキティはりんご3個分
 りんごの数が与えられる、条件に応じたメッセージ出力。
 
+## results
+@ruby
+https://yukicoder.me/submissions/266582
+https://yukicoder.me/submissions/266624
+
 ## MEMO
 * 8, 10のいずれの倍数でもない場合は何キティ？かを求めればよい。
  * 3, 8, 10の倍数であることは保証されている
 * とりあえず、愚直にといた
 * 8でも10の倍数でもない3の倍数のとき何キティ?という考えもできたので試してみた
  * 可読性が下がる割に、速度向上は見込めない
-## result
-@ruby
-https://yukicoder.me/submissions/266582
-https://yukicoder.me/submissions/266624
