@@ -5,5 +5,8 @@
 @ruby
 https://yukicoder.me/submissions/269333
 
+@golang
+https://yukicoder.me/submissions/279537
+
 ## notes
 * 与えられた文字列を1文字ずつsortして全く同じならOK
