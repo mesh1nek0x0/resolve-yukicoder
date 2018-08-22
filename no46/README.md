@@ -5,5 +5,8 @@
 @ruby
 https://yukicoder.me/submissions/267123
 
+@go
+https://yukicoder.me/submissions/279514
+
 ## notes
 * 毎回Acm歩くとして、Bcmをオーバするには何歩歩くか計算する
