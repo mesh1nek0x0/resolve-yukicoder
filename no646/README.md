@@ -4,6 +4,8 @@
 ## results
 @ruby
 https://yukicoder.me/submissions/278516
+@golang
+https://yukicoder.me/submissions/280994
 
 ## notes
 * 数を減らしていく形でピラミッドを作る
