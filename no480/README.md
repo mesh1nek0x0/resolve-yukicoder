@@ -4,6 +4,8 @@
 ## results
 @ruby
 https://yukicoder.me/submissions/268994
+@golang
+https://yukicoder.me/submissions/280983
 
 ## notes
 * これは公式があったね...
