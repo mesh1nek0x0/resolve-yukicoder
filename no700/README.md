@@ -4,6 +4,8 @@
 ## results
 @ruby
 https://yukicoder.me/submissions/266558
+@golang
+https://yukicoder.me/submissions/281279
 
 ## MEMO
 1回でもLOVEが見つかればOKなので、見つけ次第break
