@@ -4,6 +4,8 @@
 ## results
 @ruby
 https://yukicoder.me/submissions/270389
+@golang
+https://yukicoder.me/submissions/281247
 
 ## notes
 * 3つ以上のグループにわける
