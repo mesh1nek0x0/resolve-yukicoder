@@ -4,6 +4,8 @@
 ## results
 @ruby
 https://yukicoder.me/submissions/274655
+@golang
+https://yukicoder.me/submissions/281273
 
 ## notes
 * 変数に入れて出力するだけ
