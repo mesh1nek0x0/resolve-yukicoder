@@ -5,6 +5,9 @@
 @ruby
 https://yukicoder.me/submissions/268290
 
+@golang
+https://yukicoder.me/submissions/282687
+
 ## notes
 * K * Nで豆の総数を出す
 * 年齢をsumする
