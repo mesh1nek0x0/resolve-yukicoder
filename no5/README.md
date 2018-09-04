@@ -4,6 +4,8 @@
 ## results
 @ruby
 https://yukicoder.me/submissions/267417
+@golang
+https://yukicoder.me/submissions/282458
 
 ## notes
 * 用意された箱にたくさん箱を詰める
