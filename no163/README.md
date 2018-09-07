@@ -5,5 +5,10 @@
 @ruby
 https://yukicoder.me/submissions/268291
 
+@golang
+https://yukicoder.me/submissions/283082
+
 ## notes
 * rubyにはswapcaseというスーパーメソッドがある
+* golangにはそういうメソッドがなかったので、ASCIIコードで判定
+* 毎回Printしたけど、変数に入れて出力は1回の方がよいと思われる
