@@ -5,6 +5,9 @@
 @ruby
 https://yukicoder.me/submissions/268023
 
+@golang
+https://yukicoder.me/submissions/283880
+
 ## notes
 * ぐー(0)、ちょき(1)、ぱー(2)という割り当て
 * あいこはDrew
