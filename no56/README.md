@@ -5,6 +5,9 @@
 @ruby
 https://yukicoder.me/submissions/268920
 
+@golang
+https://yukicoder.me/submissions/283884
+
 ## notes
 * intとfloatとその丸め方がポイントになりそう
 * 8%なら108%の値段が払う額
