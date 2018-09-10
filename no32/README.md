@@ -5,6 +5,9 @@
 @ruby
 https://yukicoder.me/submissions/269229
 
+@golang
+https://yukicoder.me/submissions/284173
+
 ## notes
 * まずは全部合計して理想のそれぞれの枚数を出す
 * 1000円代が済んだら、なるべく硬貨の数が少なくなるように両替する
