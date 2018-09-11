@@ -5,6 +5,9 @@
 @ruby
 https://yukicoder.me/submissions/268707
 
+@golang
+https://yukicoder.me/submissions/284174
+
 ## notes
 * 1階層あたりF段分なので、S / F の切り捨て + 1になる
 * +1は1階層分あれば次の階にいることになるので。
